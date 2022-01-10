@@ -4,4 +4,4 @@
     Para deixar a imagem pequena eu construi outra imagem com o indicativo scratch, copiei o binário do go a partir da imagem criada anteriormente
     e coloquei o entrypoint no executável.
 
-    [link da imagem] (https://hub.docker.com/repository/docker/claudiopsilva/codeeducation)
+    [link da imagem](https://hub.docker.com/repository/docker/claudiopsilva/codeeducation)
